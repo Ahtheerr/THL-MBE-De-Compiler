@@ -3,11 +3,11 @@
 ## Usage
 
 ``
-Python MBE_Decompiler.py [File.MBE]
+Python MBE_Parser.py [File.MBE]
 ``
 
 ``
-Python MBE_Compiler.py [File.XLSX]
+Python MBE_Repacker.py [Folder]
 ``
 
 The XSLX files can be edited in Google Sheets if you want.
